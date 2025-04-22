@@ -1,0 +1,7 @@
+spec:
+  conda: ''
+  source: ''
+  desired_state: online
+kind: project
+metadata:
+  name: breast-cancer-pipeline
